@@ -1,3 +1,5 @@
 Alteração no arquivo.txt
 
 Alteração 2 no arquivo.txt
+
+Alteração 3 no arquivo.txt
